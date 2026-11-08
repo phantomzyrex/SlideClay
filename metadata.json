@@ -1,0 +1,6 @@
+{
+  "name": "SlideClay — Instant Claymorphic PowerPoint Viewer",
+  "description": "A fast, modern client-side PowerPoint (.pptx) viewer and presentation library crafted with a soft 3D claymorphism design system, Web Worker parsing, and IndexedDB persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
